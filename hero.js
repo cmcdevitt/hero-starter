@@ -121,6 +121,7 @@ var move = function(gameData, helpers) {
 
 // The "Safe Diamond Miner"
 // This hero will attempt to capture enemy diamond mines.
+// Add this comment as a test
 var move = function(gameData, helpers) {
   var myHero = gameData.activeHero;
 
